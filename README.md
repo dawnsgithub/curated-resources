@@ -23,7 +23,7 @@ Curated resources for design and development
   * https://github.com/phusion/passenger/wiki/Phusion-Passenger%3A-Node.js-tutorial
 
 ## NodeJS
-### Front-End Middleware
+### Front-End Web Framework or Middleware
 * https://github.com/expressjs
 
 ### Service Management
