@@ -25,6 +25,7 @@ Curated resources for design and development
 ## NodeJS
 ### Front-End Web Framework or Middleware
 * https://github.com/expressjs
+* https://socket.io/get-started/chat/
 
 ### Service Management
 #### Service restart on reboot
