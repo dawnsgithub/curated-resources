@@ -31,3 +31,5 @@ Curated resources for design and development
 * https://github.com/level
   * http://leveldb.org/ - LevelDB is a light-weight, single-purpose library for persistence with bindings to many platforms.
   * https://github.com/Level/awesome - curated list of Level modules and resources.
+  * **Tutorials**
+    * https://github.com/mcollina/levelgraph-talk-nodejsconfit
