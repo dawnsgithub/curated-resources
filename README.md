@@ -23,6 +23,7 @@ Curated resources for design and development
   
 #### Service restart, hot Reload on file change monitoring
 * https://github.com/remy/nodemon/
+  * https://medium.com/@kevinsimper/dont-use-nodemon-there-are-better-ways-fc016b50b45e
 * https://github.com/petruisfan/node-supervisor
 * https://github.com/nodejitsu/forever
 
@@ -31,5 +32,5 @@ Curated resources for design and development
 * https://github.com/level
   * http://leveldb.org/ - LevelDB is a light-weight, single-purpose library for persistence with bindings to many platforms.
   * https://github.com/Level/awesome - curated list of Level modules and resources.
-  * **Tutorials**
-    * https://github.com/mcollina/levelgraph-talk-nodejsconfit
+#### Tutorials
+* https://github.com/mcollina/levelgraph-talk-nodejsconfit
