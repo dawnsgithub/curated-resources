@@ -10,6 +10,14 @@ Curated resources for design and development
 
 # Development
 
+## Source code editors
+* https://github.com/atom/atom
+* https://github.com/Microsoft/vscode
+* https://github.com/adobe/brackets
+
+## Application Frameworks
+* https://github.com/electron/electron - Build cross platform desktop apps with JavaScript, HTML, and CSS
+
 ## Application Manager/Server
 * https://github.com/phusion/passenger
   * https://github.com/phusion/passenger/wiki/Phusion-Passenger%3A-Node.js-tutorial
