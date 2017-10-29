@@ -23,6 +23,9 @@ Curated resources for design and development
   * https://github.com/phusion/passenger/wiki/Phusion-Passenger%3A-Node.js-tutorial
 
 ## NodeJS
+### Front-End Midleware
+* https://github.com/expressjs
+
 ### Service Management
 #### Service restart on reboot
 * https://github.com/cvee/node-upstart
