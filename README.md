@@ -1,12 +1,18 @@
 # curated-resources
 Curated resources for design and development
 
+# General
+
+## OpenSource Licenses
+* https://choosealicense.com/
+
 # Design
 
 # Development
-### Application Manager/Server
-* https://github.com/phusion/passenger/wiki/Phusion-Passenger%3A-Node.js-tutorial
 
+## Application Manager/Server
+* https://github.com/phusion/passenger
+  * https://github.com/phusion/passenger/wiki/Phusion-Passenger%3A-Node.js-tutorial
 
 ## NodeJS
 ### Service restart on reboot
@@ -15,6 +21,6 @@ Curated resources for design and development
   * http://upstart.ubuntu.com/
   
 ### Service restart, hot Reload on file change monitoring
-* https://nodemon.io/
-* https://github.com/dawnsgithub/node-supervisor
+* https://github.com/remy/nodemon/
+* https://github.com/petruisfan/node-supervisor
 * https://github.com/nodejitsu/forever
